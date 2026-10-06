@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /kenigavto-vykup/blog/preview/
+
+Sitemap: https://murzzsite.github.io/kenigavto-vykup/sitemap.xml

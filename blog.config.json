@@ -1,0 +1,39 @@
+{
+  "siteName": "Кениг Авто",
+  "siteUrl": "https://murzzsite.github.io/kenigavto-vykup",
+  "lang": "ru",
+  "repo": "murzzsite/kenigavto-vykup",
+  "ref": "M9N9TQ72M6",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи от Кениг Авто",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Кениг Авто",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте заявку — разберём вашу ситуацию и подскажем следующий шаг.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#contact",
+  "disclaimer": "",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "9aa2e4bd38b9dd6819428220379778de",
+  "previewSecret": "ecd17906a3689942",
+  "theme": {
+    "accent": "var(--clr-accent)",
+    "accent-soft": "var(--clr-accent-soft)",
+    "bg": "var(--clr-bg)",
+    "surface": "var(--clr-surface)",
+    "ink": "var(--clr-ink)",
+    "text": "var(--clr-text)",
+    "soft": "var(--clr-text-soft)",
+    "line": "var(--clr-line)"
+  }
+}
