@@ -22,7 +22,12 @@
   "cadenceDays": 7,
   "homeLatest": 3,
   "staticPages": [
-    "/"
+    "/",
+    "/srochnyj-vykup-avto.html",
+    "/vykup-bityh-avto.html",
+    "/vykup-zalogovyh-avto.html",
+    "/vykup-avto-ne-na-hodu.html",
+    "/vykup-avto-bez-dokumentov.html"
   ],
   "indexNowKey": "9aa2e4bd38b9dd6819428220379778de",
   "previewSecret": "ecd17906a3689942",
